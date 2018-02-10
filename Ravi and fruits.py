@@ -7,7 +7,7 @@ for i in range(n):
     for j in range(1,a[0]):
         c+=cc
         cc+=1
-        #t+=c
+        t+=c
     #print t,c
-    r=c%a[1]
+    r=t%a[1]
     print r
